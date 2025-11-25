@@ -1,0 +1,4 @@
+name: BHMLWorldGenerations
+version: '${project.version}'
+main: me.bhml.bhmlworldgenerations.BHMLWorldGenerations
+api-version: '1.20'
