@@ -204,7 +204,7 @@ public class WorldGenerations implements Listener {
 
         // 2.3 For testing, use a fairly high spawn chance (e.g. 1 in 4)
         //      so you can see tents pop up often.
-        if (random.nextInt(35) != 0) return; // chance per new chunk, base 1/35
+        if (random.nextInt(33) != 0) return; // chance per new chunk, base 1/33
 
 
         Location flatLoc = findFlatArea(chunk);
